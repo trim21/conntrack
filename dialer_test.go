@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mwitkow/go-conntrack"
+	"github.com/trim21/go-conntrack"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
