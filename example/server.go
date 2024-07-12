@@ -13,8 +13,8 @@ import (
 	"time"
 
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	"github.com/trim21/go-conntrack"
-	"github.com/trim21/go-conntrack/connhelpers"
+	"github.com/trim21/conntrack"
+	"github.com/trim21/conntrack/connhelpers"
 	"golang.org/x/net/context/ctxhttp"
 	_ "golang.org/x/net/trace"
 )

@@ -15,7 +15,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
-	"github.com/trim21/go-conntrack"
+	"github.com/trim21/conntrack"
 )
 
 func TestListenerTestSuite(t *testing.T) {

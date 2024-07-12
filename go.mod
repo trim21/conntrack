@@ -1,4 +1,4 @@
-module github.com/trim21/go-conntrack
+module github.com/trim21/conntrack
 
 go 1.18
 
